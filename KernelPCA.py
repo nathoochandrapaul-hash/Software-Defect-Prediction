@@ -1,6 +1,6 @@
 # Importing the libraries
-import numpy as np
-import pandas as pd
+import numpy as num
+import pandas as pad
 
 # Importing the dataset
 dataset = pd.read_csv('cm1.csv')
